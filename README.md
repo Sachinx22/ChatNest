@@ -1,17 +1,54 @@
-# chat_nest
 
-A new Flutter project.
+# ChatNest 💬
+
+ChatNest is a messaging app prototype built with Flutter and Dart. It is currently under development.
+
+## Features
+
+- Chat interface with sample conversations
+- Contact and people management
+- Login and signup screens
+- User profile and settings
+- Nearby places interface
+- Voice and video call interfaces
+
+## Tech Stack
+
+- Flutter
+- Dart
+- Firebase configuration
+
+## Current Status
+
+The app currently focuses on its user interface and prototype features. Real-time messaging, backend integration, and functional voice/video calling are planned for future development.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install Flutter and Dart.
+2. Clone this repository:
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   git clone https://github.com/Sachinx22/ChatNest.git
+   ```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+3. Open the project folder:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   cd ChatNest
+   ```
+
+4. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+5. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+## Project Goals
+
+ChatNest is a learning project intended to explore Flutter app development and gradually introduce real messaging and backend functionality.
